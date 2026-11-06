@@ -1,0 +1,10 @@
+title: Archivo Histórico Dos Arbolitos
+description: Un pueblo que conserva su memoria y fortalece su identidad, construye su futuro
+lang: es
+theme: minima
+header_pages:
+  - index.md
+  - el-cahulote.md
+  - patrimonio-natural.md
+  - tradiciones.md
+  - hacienda.md
